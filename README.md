@@ -1,5 +1,3 @@
-![Logo of Instacart](r'/Users/jacob/Downloads/Instacart_Logo.png)
-
 # Instacart_Python_Analysis
 A Data Analysis Project using Python to analyze data from an online Grocery Basket, Instacart.
 Instcart is an online grocery store that operates through an app. They have good sales historically but want to uncover more information about their sales patterns.
