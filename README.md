@@ -1,4 +1,4 @@
-![Logo of Instacart]https://logos-world.net/instacart-logo/
+![Logo of Instacart]r'/Users/jacob/Downloads/Instacart_Logo.png'
 
 # Instacart_Python_Analysis
 A Data Analysis Project using Python to analyze data from an online Grocery Basket, Instacart.
